@@ -3,4 +3,22 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="background_content">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- 规范字体颜色-->
+    <color name="text_C1">#099CD6</color>
+    <color name="text_C2">#FF9600</color>
+    <color name="text_C3">#889aac</color>
+    <color name="text_C4">#333333</color>
+    <color name="text_C5">#555555</color>
+    <color name="text_C6">#999999</color>
+    <color name="text_C7">#bbbbbb</color>
+    <color name="text_C8">#FFFFFF</color>
+    <color name="text_C19">#1D9DD4</color>
+    <color name="text_C666">#666666</color>
+    <color name="text_C222">#222222</color>
+
+    <color name="normal_text">#222222</color>
+
 </resources>

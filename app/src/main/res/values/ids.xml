@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id"/>
+    <item name="image" type="id"/>
+    <item name="title" type="id"/>
+    <item name="summary" type="id"/>
+    <item name="money" type="id"/>
+    <item name="divider" type="id"/>
+    <item name="count" type="id"/>
+    <item name="number" type="id"/>
+    <item name="price" type="id"/>
+    <item name="tipsTitle" type="id"/>
+    <item name="tipsInfo" type="id"/>
+
+    <item name="buttonLayout" type="id"/>
+    <item name="inputLayout" type="id"/>
+
+
+    <item name="emptyViewStub" type="id"/>
+    <item name="emptyText" type="id"/>
+    <item name="emptyImage" type="id"/>
+
+    <item name="recyclerView" type="id"/>
+    <item name="refreshLayout" type="id"/>
+
+    <item name="titleBar" type="id"/>
+    <item name="titleBarLayout" type="id"/>
+    <item name="commentCount" type="id"/>
+    <item name="favoriteCount" type="id"/>
+</resources>

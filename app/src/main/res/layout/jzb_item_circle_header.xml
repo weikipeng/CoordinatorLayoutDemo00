@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#1b8eda">
+
+    <View
+        android:id="@+id/paddingTopView"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_alignParentTop="true"/>
+
+    <ImageView
+        android:id="@id/icon"
+        android:layout_width="@dimen/icon_size_circle_header"
+        android:layout_height="@dimen/icon_size_circle_header"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/paddingTopView"
+        android:layout_marginEnd="@dimen/activity_padding_10"
+        android:layout_marginLeft="@dimen/activity_padding"
+        android:layout_marginRight="@dimen/activity_padding_10"
+        android:layout_marginStart="@dimen/activity_padding"
+        android:src="@mipmap/bang_icon_bang_default2"/>
+
+    <TextView
+        android:id="@id/name"
+        style="@style/TextView.T2.White"
+        android:layout_alignTop="@id/icon"
+        android:layout_marginTop="2dp"
+        android:layout_toEndOf="@id/icon"
+        android:layout_toRightOf="@id/icon"
+        android:text="美食圈子"/>
+
+    <TextView
+        android:id="@+id/subtitle"
+        style="@style/TextView.T6.White"
+        android:layout_alignLeft="@id/name"
+        android:layout_alignStart="@id/name"
+        android:layout_below="@id/name"
+        android:layout_marginTop="5dp"
+        android:text="500人"/>
+
+    <TextView
+        android:id="@+id/summary"
+        style="@style/TextView.T6.White"
+        android:layout_alignLeft="@id/name"
+        android:layout_alignStart="@id/name"
+        android:layout_below="@id/subtitle"
+        android:layout_marginEnd="@dimen/activity_padding_10"
+        android:layout_marginRight="@dimen/activity_padding_10"
+        android:layout_marginTop="5dp"
+        android:text="在这里畅聊家庭教育，与孩子一起成长，一起进步"/>
+
+    <View
+        android:id="@+id/paddingBottomView"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_below="@id/icon"/>
+</RelativeLayout>

@@ -1,0 +1,307 @@
+<resources>
+
+    <!-- 规范字体大小-->
+    <!-- 帖子-->
+    <dimen name="text_T1">18sp</dimen>
+    <dimen name="text_T2">16sp</dimen>
+    <dimen name="text_T3">15sp</dimen>
+    <dimen name="text_T4">14sp</dimen>
+    <dimen name="text_T5">12sp</dimen>
+    <dimen name="text_T6">10sp</dimen>
+    <dimen name="text_T7">13sp</dimen>
+    <dimen name="text_T8">11sp</dimen>
+    <dimen name="text_T9">19sp</dimen>
+
+    <dimen name="text_T17">17sp</dimen>
+
+    <!--6.3.1-->
+    <dimen name="space_grid_circle_content_image">8dp</dimen>
+    <dimen name="corner_home_topic">7dp</dimen>
+
+    <!--6.3-->
+    <dimen name="min_height_circle_content">180dp</dimen>
+    <dimen name="min_height_circle_content_text">75dp</dimen>
+    <!--<dimen name="min_height_circle_content_text">24dp</dimen>-->
+    <dimen name="img_circle_content">195dp</dimen>
+    <dimen name="img_circle_content_2">95dp</dimen>
+    <dimen name="img_circle_content_3">95dp</dimen>
+    <dimen name="avatar_size_circle_content">20dp</dimen>
+    <dimen name="avatar_size_square_circle_content">32dp</dimen>
+    <dimen name="icon_size_circle_header">60dp</dimen>
+
+    <!--6.0.1-->
+    <dimen name="height_edit_text_register">45dp</dimen>
+
+    <!--5.1版本-->
+    <!--间距-->
+    <dimen name="space">10dp</dimen>
+    <!--<dimen name="divider">0.5dp</dimen>-->
+    <dimen name="divider_margin_horizontal">10dp</dimen>
+    <dimen name="divider_margin_left_course_comment">50dp</dimen>
+    <dimen name="tab_max_width">114dp</dimen>
+
+    <!--5.2版本-->
+    <dimen name="schoolIcon">50dp</dimen>
+    <dimen name="titleBar">@dimen/height_app_title_bar</dimen>
+
+    <dimen name="item_thread_other_floor_padding_left">50dp</dimen>
+    <dimen name="item_thread_first_floor_padding_left">10dp</dimen>
+
+    <dimen name="item_thread_floor_padding_top">5dp</dimen>
+    <!--帖子详情楼层头部视图-->
+    <dimen name="item_thread_floor_header_padding_top">15dp</dimen>
+    <dimen name="item_thread_floor_padding_bottom">5dp</dimen>
+    <dimen name="item_thread_floor_padding_right">10dp</dimen>
+
+    <!--帖子详情 footer-->
+    <dimen name="item_thread_footer_padding_bottom">15dp</dimen>
+    <dimen name="item_thread_footer_padding_top">10dp</dimen>
+
+    <!--帖子详情 第一层 footer-->
+    <dimen name="item_thread_first_footer_padding_bottom">20dp</dimen>
+    <dimen name="item_thread_first_footer_padding_top">15dp</dimen>
+
+    <dimen name="cup_match_icon">35dp</dimen>
+    <dimen name="month_attention_icon">30dp</dimen>
+
+    <dimen name="headbar_height">48dp</dimen>
+    <dimen name="header_icon">32dp</dimen>
+    <dimen name="activity_padding">14dp</dimen>
+    <dimen name="activity_padding_10">10dp</dimen>
+    <dimen name="activity_padding_15">15dp</dimen>
+    <dimen name="activity_thread_padding">10dp</dimen>
+
+    <dimen name="advertiseHeight">90dp</dimen>
+
+    <dimen name="list_item_padding">10dp</dimen>
+    <dimen name="list_item_icon">50dp</dimen>
+    <dimen name="list_item_name">@dimen/normal_text</dimen>
+
+    <dimen name="normal_text">16sp</dimen>
+    <dimen name="large_text">18sp</dimen>
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="smallx_text">13sp</dimen>
+    <dimen name="smallxx_text">11sp</dimen>
+    <dimen name="icon_text">9sp</dimen>
+
+    <!--  ============== 字号大小 ==============  -->
+    <!-- title 大小 -->
+    <dimen name="title_text">18sp</dimen>
+    <dimen name="title_big_size">21sp</dimen>
+    <dimen name="title_very_big_size">24sp</dimen>
+
+    <!-- content 大小  群组聊天信息 大小 -->
+    <dimen name="content_size">16sp</dimen>
+    <dimen name="content_big_size">19sp</dimen>
+    <dimen name="content_very_big_size">21sp</dimen>
+
+    <!-- quote 大小 -->
+    <dimen name="quote_size">14sp</dimen>
+    <dimen name="quote_big_size">17sp</dimen>
+    <dimen name="quote_very_big_size">20sp</dimen>
+
+    <!--  默认的头像大小 -->
+    <dimen name="avatar_size">48dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="bang_icon_size">70dp</dimen>
+    <dimen name="bang_icon_size_100dp">100dp</dimen>
+    <dimen name="bang_city_icon_size">60dp</dimen>
+    <dimen name="bang_avatar_size">32dp</dimen>
+    <dimen name="bang_detail_margin">90dp</dimen>
+
+    <dimen name="msg_list_icon">50dp</dimen>
+
+    <dimen name="dialog_width">200dp</dimen>
+    <dimen name="dialog_height">400dp</dimen>
+    <dimen name="min_distance_abort_record">50dp</dimen>
+    <dimen name="audio_wraper_max_width">200dp</dimen>
+    <dimen name="audio_wraper_min_width">20dp</dimen>
+    <dimen name="friend_avatar_size">40dp</dimen>
+
+    <!-- 帮首页推荐群组 右边距 -->
+    <dimen name="home_recommend_bang_title_margin_right">38dp</dimen>
+    <dimen name="emoji_size">28dp</dimen>
+    <dimen name="emoji_editext_size">22dp</dimen>
+
+    <dimen name="group_icon_size">40dp</dimen>
+    <dimen name="group_icon_big_size">100dp</dimen>
+
+    <!-- 首页 帮家长 -->
+    <!-- 内容标题栏 -->
+    <dimen name="body_header_layout">54dp</dimen>
+    <dimen name="header_height_layout">24dp</dimen>
+    <dimen name="body_header_layout_padding_left">10dp</dimen>
+    <dimen name="body_header_title">18sp</dimen>
+    <dimen name="body_header_title_margin_bottom">6dp</dimen>
+    <dimen name="body_header_title_margin_left">12dp</dimen>
+    <dimen name="body_header_right_text">14sp</dimen>
+    <dimen name="mybangfragment_item_name">18sp</dimen>
+    <dimen name="bbs_bang_icon_size">40.0dp</dimen>
+    <dimen name="emoji_big_size">100.0dp</dimen>
+
+    <!-- 内容中列表 -->
+    <dimen name="list_item_title">16sp</dimen>
+    <dimen name="list_item_summary">13sp</dimen>
+    <dimen name="set_item_summary">12sp</dimen>
+
+    <dimen name="list_item_layout_padding_left">10dp</dimen>
+    <dimen name="list_item_layout">45dp</dimen>
+
+    <dimen name="list_icon_size">55.0dp</dimen>
+
+    <dimen name="background_rounded_corner_radius">5dp</dimen>
+
+    <dimen name="normal_avatar_layout">40dp</dimen>
+
+    <dimen name="second_title">40dp</dimen>
+
+    <!-- 未读消息数目 -->
+    <dimen name="unread_message_num">10sp</dimen>
+
+    <dimen name="list_item_choiceness_title_margin_top">20dp</dimen>
+    <!-- 发现页图标大小 -->
+    <dimen name="find_icon">45dp</dimen>
+
+    <!-- 发现页图标大小 -->
+    <dimen name="emoji_new_button_vertical">6dp</dimen>
+    <dimen name="emoji_new_button_horizonal">20dp</dimen>
+
+    <dimen name="share_item_empty_width">12dp</dimen>
+
+    <!--Bang4.0 标签-->
+    <!--标签订阅页面padding-->
+    <dimen name="labelgroup_subscribe_padding">15dp</dimen>
+    <dimen name="dp_150">150dp</dimen>
+    <dimen name="labelgroup_drawable_padding">4dp</dimen>
+
+    <dimen name="card_header_layout">54dp</dimen>
+
+    <dimen name="text_icon_padding">4dp</dimen>
+    <dimen name="thread_avatar">30dp</dimen>
+
+    <!-- 4.1版本 -->
+    <dimen name="community_module_header_high">45dp</dimen>
+    <dimen name="community_module_header_title_size">16sp</dimen>
+    <dimen name="community_module_header_button_size">15sp</dimen>
+    <dimen name="community_module_list_item_icon_size">50dp</dimen>
+    <dimen name="community_module_list_item_name_size">15sp</dimen>
+    <dimen name="community_module_list_item_label_size">12sp</dimen>
+    <dimen name="community_module_list_item_image_width">80dp</dimen>
+    <dimen name="community_module_list_item_image_high">60dp</dimen>
+    <dimen name="community_module_list_item_activity_name_size">16sp</dimen>
+    <dimen name="community_module_list_item_activity_info_size">13sp</dimen>
+    <dimen name="community_module_empty_holder_high">80dp</dimen>
+    <dimen name="community_module_empty_holder_text_size">15sp</dimen>
+    <dimen name="community_module_recommend_high">44dp</dimen>
+    <dimen name="shape_rectangle_vertical_width">4dp</dimen>
+    <dimen name="shape_rectangle_vertical_high">18dp</dimen>
+
+    <dimen name="group_padding">14dp</dimen>
+    <dimen name="group_content_right_margin">4dp</dimen>
+
+    <!-- 4.2 -->
+    <dimen name="community_module_label_group_name_size">15sp</dimen>
+    <dimen name="create_thread_forum_name_size">15sp</dimen>
+    <dimen name="choose_bang_header_title_size">12sp</dimen>
+    <dimen name="choose_bang_grid_item_name_size">15sp</dimen>
+    <dimen name="thread_floor_avatar">30dp</dimen>
+    <!-- 新活动详情界面图片 距离两边距离总和-->
+    <dimen name="activity_thread_activity_image_margin">20dp</dimen>
+    <dimen name="activity_thread_activity_status_image_margin_bottom">20dp</dimen>
+    <dimen name="thread_floor_item_padding_10">10dp</dimen>
+    <dimen name="thread_floor_item_padding_15">15dp</dimen>
+    <dimen name="thread_floor_item_padding_left">47dp</dimen>
+    <!-- 老师头像大小-->
+    <dimen name="teacher_chat_avatar">24dp</dimen>
+    <dimen name="teacher_chat_layout">28dp</dimen>
+
+    <!--  ============== 首页 活动 tab 界面 ==============  -->
+    <dimen name="fragment_activity_image_item_width">70dp</dimen>
+    <dimen name="fragment_activity_image_item_height">53dp</dimen>
+
+    <dimen name="target_school_school_info_name_size">15sp</dimen>
+    <dimen name="target_school_school_info_vote_size">10sp</dimen>
+    <dimen name="target_school_school_info_tag_size">12sp</dimen>
+    <dimen name="target_school_avatar_size">50dp</dimen>
+    <dimen name="target_school_filter_name_size">15sp</dimen>
+    <dimen name="target_school_followed_tag_title_size">15sp</dimen>
+    <dimen name="target_school_followed_tag_reply_size">10sp</dimen>
+    <dimen name="target_school_more_info_text_size">12sp</dimen>
+    <dimen name="create_thread_at_help_text_size">13sp</dimen>
+
+    <!-- 学校-->
+    <dimen name="icon_school_navigation_item">30dp</dimen>
+    <dimen name="icon_school">50dp</dimen>
+    <dimen name="video_height">50dp</dimen>
+    <dimen name="video_empty_height">180dp</dimen>
+    <dimen name="video_title_layout">40dp</dimen>
+    <dimen name="school_star_margin_top">5dp</dimen>
+    <dimen name="school_album_photo_margin">20dp</dimen>
+
+    <dimen name="review_user_avatar">30dp</dimen>
+    <dimen name="tag_padding_V">2dp</dimen>
+    <dimen name="tag_padding_H">6dp</dimen>
+    <dimen name="home_daily_image">70dp</dimen>
+    <dimen name="home_story_image">88dp</dimen>
+
+    <!--5.1 课程直播 群聊-->
+    <dimen name="course_info_content_margin_top">15dp</dimen>
+    <dimen name="course_info_content_margin_bottom">30dp</dimen>
+    <dimen name="course_info_padding_top">20dp</dimen>
+    <dimen name="section_title_margin_left">5dp</dimen>
+    <dimen name="course_info_teacher_avatar">84dp</dimen>
+    <dimen name="course_info_section_title_padding_bottom">15dp</dimen>
+
+    <dimen name="private_message_avatar_size">40dp</dimen>
+    <dimen name="personal_user_avatar_size">85dp</dimen>
+    <dimen name="titleBarMenuLayout">32dp</dimen>
+    <!--5.2.2学堂音频详情页面-->
+    <dimen name="class_audio_space">25dp</dimen>
+    <dimen name="class_audio_line_space">10dp</dimen>
+
+    <dimen name="class_room_story_icon">30dp</dimen>
+    <dimen name="avatar_size_comment_input">27dp</dimen>
+    <dimen name="forum_create_thread_avatar">35dp</dimen>
+    <dimen name="avatar_thread_history">20dp</dimen>
+
+    <!--5.3-->
+    <dimen name="qa_expert_avatar">35dp</dimen>
+    <dimen name="qa_detail_question_avatar">25dp</dimen>
+    <dimen name="qa_detail_answer_avatar">40dp</dimen>
+    <dimen name="avatar_size_qa_detail_expert_answer">40dp</dimen>
+    <dimen name="avatar_size_community_bang">48dp</dimen>
+
+    <!--5.4-->
+    <dimen name="school_concern_rank_avatar">25dp</dimen>
+    <dimen name="avatar_size_school_detail_follow">25dp</dimen>
+    <dimen name="icon_size_icon_text">25dp</dimen>
+    <dimen name="school_info_padding">20dp</dimen>
+    <dimen name="item_height_drop_down_menu">50dp</dimen>
+
+    <!--5.4.3 二维码名片-->
+    <dimen name="avatar_size_qr">65dp</dimen>
+
+    <!--5.4.4 试题支付-->
+    <dimen name="item_exam_pay">65dp</dimen>
+    <dimen name="button_exam_pay_width">55dp</dimen>
+    <dimen name="button_exam_pay_height">27dp</dimen>
+
+    <!--5.5 匿名-->
+    <dimen name="anonymous_detail_topic_avatar">30dp</dimen>
+    <dimen name="anonymous_detail_reply_avatar">30dp</dimen>
+    <dimen name="notice_icon">40dp</dimen>
+    <dimen name="anonymous_detail_list_divider_margin">50dp</dimen>
+    <dimen name="icon_home_topic">45dp</dimen>
+
+    <!--6.1-->
+    <dimen name="anonymous_detail_identity_avatar">24dp</dimen>
+    <dimen name="avatar_size_anonymous_content">20dp</dimen>
+    <dimen name="avatar_size_anonymous_user_info">60dp</dimen>
+
+    <!--6.3-->
+    <dimen name="icon_square_circle">40dp</dimen>
+</resources>
