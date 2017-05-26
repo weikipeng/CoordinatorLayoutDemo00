@@ -71,7 +71,19 @@
 
     <include layout="@layout/content_scrolling"/>
 
+    <com.example.wikipeng.coordinatorlayoutdemo00.refresh.JZBRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#66ff0000"
+        android:orientation="vertical">
 
+        <com.example.wikipeng.coordinatorlayoutdemo00.refresh.JzbRecyclerView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp"/>
+
+
+    </com.example.wikipeng.coordinatorlayoutdemo00.refresh.JZBRefreshLayout>
     <!--<RelativeLayout-->
     <!--android:layout_width="match_parent"-->
     <!--android:layout_height="?attr/actionBarSize">-->

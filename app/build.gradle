@@ -31,4 +31,7 @@ dependencies {
     //stetho调试工具
     compile 'com.facebook.stetho:stetho:1.4.1'
     compile 'com.facebook.stetho:stetho-okhttp3:1.4.1'
+
+    //下拉刷新控件
+    compile 'cn.bingoogolapple:bga-refreshlayout:1.1.7@aar'
 }
